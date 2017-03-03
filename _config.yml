@@ -1,2 +1,5 @@
 repository: learnfromyou/learnfromyou.github.io
 theme: jekyll-theme-minimal
+title: Learn From You
+description: Learnfromyou website
+encoding: utf-8
